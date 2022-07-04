@@ -1,0 +1,30 @@
+.brdr{
+
+    border: 1px solid #f0f0f0;
+}
+.form{
+    width: 250px;
+    height: 380px;
+    position: absolute; 
+    background: linear-gradient(to top, rgba(0,0,0,0.8)80%, rgba(0,0,0,0,0.8)80%);
+    left: 585px;
+    border-radius: 10px; 
+    padding: 25px; 
+   
+} 
+
+.form h2{
+    width: 194px;
+    font-family: 'Times New Roman';
+    text-align: center;
+    color: #ff7200;
+    font-size: 24px;
+    background-color: #fff;
+    border-radius: 10px; 
+    border-color: aliceblue;
+    margin: 2px;
+    padding: 8px; 
+  
+
+} 
+

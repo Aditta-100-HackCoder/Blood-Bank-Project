@@ -1,0 +1,30 @@
+.myLogin{
+    padding-left: 200px;
+    padding-right: 300px;
+    padding-top: 80px;
+   }
+   .login-title{
+       padding-left: 100px;
+   }
+   
+   .submit2{
+   
+       
+       padding-left: 10px; 
+       
+   } 
+   
+   .clearfix{
+       padding-left: 550px;
+   }
+   .Terms2{
+       padding-left: 200px; 
+   }
+   .navbar{
+       min-height:15px;
+   }
+   .navbar  a {
+       font-size: 19.2px;
+   } 
+   
+   .navbar { padding-top: 0.30rem; padding-bottom: 0.30rem; }
